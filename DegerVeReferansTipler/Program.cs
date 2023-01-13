@@ -22,7 +22,7 @@ namespace DegerVeReferansTipler
             //ve { 10, 20, 30 }; bu değerler tutulur
             //int[] sayilar2 102 stack new int[] { 100, 200, 300 }; 102 heap new demek heap de yeni bir adres tutar
             //yani   sayilar1 = sayilar2; referans numarası birbirine eşit oldu yani 102 =102 oldu
-            //ikisininde referans numarası aynı adrese atandı.
+            //ikisininde referans numarası aynı adrese atandı.HBBBB
             //sayilar2[0] = 999; oldu ve ardından sayilar1[0] değeride 999 oldu.
 
 
