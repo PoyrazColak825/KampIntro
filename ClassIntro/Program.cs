@@ -90,6 +90,8 @@ namespace ClassIntro
         public string egitmen { get; set; }
 
         public int izlenmeOrani { get; set; }
+
+        
     }
 
 
