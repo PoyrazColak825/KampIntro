@@ -52,7 +52,7 @@ namespace OOP1
 
 
             //Açıklaması değer tiplerde atamalar değeeri üzerinden olur sayi=100 diyip sayi yazdırdığında 100 çıkar.Gidip adresdeki değeri kamera yaptığımız için product1.ProcudtName kamera oldu
-
+             
             //15.İŞLEM
             productManager.Topla2(7, 5);
 

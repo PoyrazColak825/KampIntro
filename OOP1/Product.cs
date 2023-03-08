@@ -29,5 +29,6 @@ namespace OOP1
         //delete silmek 
 
 
+
     }
 }
