@@ -6,7 +6,7 @@ namespace Metotlar//metotlara class ekleme
 {
     class Urun
     {
-        public int Id { get; set; }//özellik
+        public int Id { get; set; }//özellik proptabtab
 
         public string Adi { get; set; }
 
