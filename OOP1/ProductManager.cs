@@ -53,7 +53,7 @@ namespace OOP1
         {
             Console.WriteLine( sayi1 + sayi2);
         }
-
+         
         //voidle mi yazmak intlemi yazsak 
         //topla2 işlemini yapıyor ve bitiyor.
         //RETURN E neden ihtiyaç vardır.

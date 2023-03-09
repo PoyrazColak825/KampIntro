@@ -17,7 +17,7 @@ namespace OOP1
         public string ProductName { get; set; }//ürünün adı
 
         public double UnitPrice { get; set; }//ürünü fiyatı
-
+         
         public int UnitsInStock  { get; set; }//ürünün stok adedi
 
 

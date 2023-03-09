@@ -61,7 +61,7 @@ namespace OOP1
             int toplamSonucu = productManager.Topla(3, 5);//return sağ tarafta kalan yerdir ve bu değeri toplamaSonucu atıyoruz.
 
             Console.WriteLine(toplamSonucu * 2);
-
+             
         
         
         
