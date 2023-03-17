@@ -17,10 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefveOut", "RefveOut\RefveOut.csproj", "{3DAA8723-3B63-4837-B8C8-E12BAB93EA9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusteriSimulasyonu", "MusteriSimulasyonu\MusteriSimulasyonu.csproj", "{557DCB49-5324-43C6-931A-4F4B1D0A36E5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{A14ABD1F-FCE7-45BA-8AC8-166DB003D38E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,14 +51,6 @@ Global
 		{3DAA8723-3B63-4837-B8C8-E12BAB93EA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DAA8723-3B63-4837-B8C8-E12BAB93EA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DAA8723-3B63-4837-B8C8-E12BAB93EA9B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{557DCB49-5324-43C6-931A-4F4B1D0A36E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{557DCB49-5324-43C6-931A-4F4B1D0A36E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{557DCB49-5324-43C6-931A-4F4B1D0A36E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{557DCB49-5324-43C6-931A-4F4B1D0A36E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A14ABD1F-FCE7-45BA-8AC8-166DB003D38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A14ABD1F-FCE7-45BA-8AC8-166DB003D38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A14ABD1F-FCE7-45BA-8AC8-166DB003D38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A14ABD1F-FCE7-45BA-8AC8-166DB003D38E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
