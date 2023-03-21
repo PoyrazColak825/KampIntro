@@ -32,12 +32,11 @@ namespace OOP2
         //GELEN MÜSTERİYİ EKLEMEK İÇİN BİR DE METHOD EKLİCEZ 
         //VARLIK ÖZELLİK ENTİTY BUNLARIN İÇİNDE OPERASYON OLMAZ 
         //inheritance neden yapılır. 
-        public string Adi { get; set; }
+       
 
-        public string SoyAdi { get; set; }
+        public int Id { get; set; }
 
-
-        public string TcNo { get; set; }
+        public string MusteriNo { get; set; }
 
 
 

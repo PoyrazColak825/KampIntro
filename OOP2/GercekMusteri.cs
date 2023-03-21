@@ -7,9 +7,8 @@ namespace OOP2
     //İndividual
     class GercekMusteri:Musteri
     {
-        public int Id { get; set; }
+     
 
-        public string MusteriNo { get; set; }
 
         public string TcNo { get; set; }
 

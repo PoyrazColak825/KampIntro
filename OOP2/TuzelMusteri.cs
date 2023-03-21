@@ -12,9 +12,9 @@ namespace OOP2
     //tuzel ve gerçek musterinin ebeveyni musteridir 
     class TuzelMusteri:Musteri
     {
-        public int Id { get; set; }
+    
 
-        public string MusteriNo { get; set; }
+       
 
         public string SirketAdi { get; set; }
 
